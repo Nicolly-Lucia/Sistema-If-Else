@@ -6,14 +6,22 @@ Este projeto demonstra o uso de estruturas de decisão If/Else em Java utilizand
 
 Feita em ordem:
 
-Solicita ao usuário dois números,
+Solicita ao usuário dois números
+
 Compara os números usando todos os operadores condicionais:
+
 Igual (==),
+
 Maior (>),
+
 Menor (<),
+
 Diferente (!=),
+
 Maior ou igual (>=),
+
 Menor ou igual (<=),
+
 Exibe os resultados em uma janela de mensagem.
 
 # Prints do projeto funcionando
