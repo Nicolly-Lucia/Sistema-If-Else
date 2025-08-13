@@ -1,13 +1,14 @@
 # Sistema-If-Else
 
-Este projeto demonstra o uso de estruturas de decisão (if/else) em Java utilizando JOptionPane para interface gráfica simples.
+Este projeto demonstra o uso de estruturas de decisão If/Else em Java utilizando JOptionPane para interface.
 
 # Como Funciona?
 
+Feita em ordem:
 Solicita ao usuário dois números
 Compara os números usando todos os operadores condicionais:
 Igual (==)
- Maior (>)
+Maior (>)
 Menor (<)
 Diferente (!=)
 Maior ou igual (>=)
